@@ -1,0 +1,20 @@
+Numero,edad,grado ,genero ,id
+1,15,preescolar,Masculino,1000245
+2,45,primero,Masculino,456456
+3,15,cuarto,Femenino,454564
+4,78,quinto,,53123
+5,45,cuarto,,87978967
+6,4,tercero,,546456
+7,12,,,78879
+8,45,,,4563453
+9,,decimo,Masculino,456786
+10,25,once,Masculino,12345
+11,,,Femenino,79786
+12,87,,Femenino,5438
+13,,,Femenino,4532312
+14,,,Masculino,
+15,,quinto,Masculino,
+16,,cuarto,Masculino,
+17,58,decimo,Masculino,4256789
+18,,tercero ,Masculino,7897869
+19,69,preescolar,Masculino,45678
